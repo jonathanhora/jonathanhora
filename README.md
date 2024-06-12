@@ -37,7 +37,7 @@
 
 ---
 🌐 Contato: <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jonathan-hora/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-hora) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div>
