@@ -1,6 +1,6 @@
 <div align="center">
   
-  # Olá, Eu sou o Jonathan Hora :rocket:
+  # Olá, sou o Jonathan Hora :rocket:
 
   <br>
   
