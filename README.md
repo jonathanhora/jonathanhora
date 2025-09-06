@@ -5,8 +5,8 @@
   <br>
   
   <p>
-    Desenvolvedor de Software na Empresa B2e Sistemas Ltda.<br>
-    Formado no curso de Ciência do Computação pela UNIP.<br>
+    Desenvolvedor Web.<br>
+    Formado no curso de Ciência do Computação.<br>
     Cursando o curso Front-end developer na instituição Mate Academy.<br>
     De São Paulo, Brasil.
   </p> 
